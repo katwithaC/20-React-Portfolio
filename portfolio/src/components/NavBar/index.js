@@ -1,1 +1,1 @@
-///adding index.js
+//adding index.js
